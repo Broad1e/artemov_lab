@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Учёба\2 курс\3 семестр\Алгоритмические языки\lab1_peredel\lab1_peredel\Source.cpp(184,37): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Учёба\2 курс\3 семестр\Алгоритмические языки\lab1_peredel\lab1_peredel\Source.cpp(227,6): warning C4101: working_status: неиспользованная локальная переменная
+C:\Учёба\2 курс\3 семестр\Алгоритмические языки\lab1_peredel\lab1_peredel\Source.cpp(264,37): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Учёба\2 курс\3 семестр\Алгоритмические языки\lab1_peredel\lab1_peredel\Source.cpp(409,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  lab1_peredel.vcxproj -> C:\Учёба\2 курс\3 семестр\Алгоритмические языки\lab1_peredel\x64\Debug\lab1_peredel.exe
